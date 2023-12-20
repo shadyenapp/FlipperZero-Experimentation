@@ -7,7 +7,7 @@ After using the stock firmware, I've installed the [Xtreme Firmware](https://git
 
 ## Project Sections
 
-### Bad Usb / Bad KB
+### [Bad Usb / Bad KB](https://github.com/shadyenapp/FlipperZero-Experimentation/blob/main/BadUsb/README.md)
 
 ### RFID
 
