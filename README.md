@@ -3,7 +3,7 @@ My experimentations with the Flipper Zero
 
 ## Project Sections
 
-### [Bad Usb / Bad KB](BadUsb/readme.md)
+### Bad Usb / Bad KB
 
 ### RFID
 
