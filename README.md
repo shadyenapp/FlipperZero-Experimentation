@@ -9,10 +9,10 @@ After using the stock firmware, I've installed the [Xtreme Firmware](https://git
 
 ### [Bad Usb / Bad KB](https://github.com/shadyenapp/FlipperZero-Experimentation/blob/main/BadUsb/README.md)
 
-### RFID
+### [RFID](https://github.com/shadyenapp/FlipperZero-Experimentation/blob/main/RFID/README.md)
 
-### Sub-Ghz
+### [Sub-Ghz](https://github.com/shadyenapp/FlipperZero-Experimentation/blob/main/SubGhz/README.md)
 
-### NFC
+### [NFC](https://github.com/shadyenapp/FlipperZero-Experimentation/blob/main/NFC/README.md)
 
 ### Custom Apps
