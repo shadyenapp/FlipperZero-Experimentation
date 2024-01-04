@@ -15,4 +15,4 @@ After using the stock firmware, I've installed the [Xtreme Firmware](https://git
 
 ### [NFC](https://github.com/shadyenapp/FlipperZero-Experimentation/blob/main/NFC/README.md)
 
-### Custom Apps
+### [Custom Apps](https://github.com/shadyenapp/FlipperZero-Experimentation/blob/main/CustomApps/README.md)
